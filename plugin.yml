@@ -1,0 +1,7 @@
+name: Quest
+description: Made By Mazyar8
+author: Mazyar8
+main: dev.mazyar8.quest.Quest
+version: 1.8
+commands:
+  q:
